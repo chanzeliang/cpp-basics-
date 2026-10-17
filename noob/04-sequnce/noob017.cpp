@@ -8,5 +8,6 @@ int main() {
 
         cout << n*1024*1024/4 << endl;
 // 一个整数占四个字节
+        return 0;
     }
 }
